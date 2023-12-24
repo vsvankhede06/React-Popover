@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn {
+  border-radius: 6px;
+  background-color: lightgray;
+  font-size: smaller;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 1.4;
+  background: grey;
+  padding: 20px 28px;
+  border-radius: 30px;
+  max-width: 300px;
+  min-width: 300px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.btn {
+}
