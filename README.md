@@ -1,16 +1,16 @@
 React Popover Component
-Overview
+> Overview
 This is a simple React Popover component that demonstrates the usage of JavaScript, HTML, and CSS to create a popover. The main feature is implemented using React state management.
 
-Features
+> Features
 Popover appears when the user hovers over a button.
 Popover disappears when the user moves the mouse out of the button or the popover itself.
 Stylish overlay and content for the popover.
-Prerequisites
+> Prerequisites
 Before you begin, ensure you have the following installed:
 
 Node.js and npm/yarn to run and manage the React application.
-Installation
+> Installation
 1.Clone the repository:
 Copy code
 git clone [https://github.com/vsvankhede06/react-popover.git](https://github.com/vsvankhede06/React-Popover.git)
